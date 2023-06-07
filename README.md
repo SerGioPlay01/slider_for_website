@@ -49,7 +49,7 @@ git clone https://github.com/SerGioPlay01/slider_for_website.git
 # Технологии
 Я использовал следующие технологии для разработки проекта:
 
-!CSS3 !HTML5 !JavaScript
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # Примечания
 Чтобы добавить несколько слайдеров на одной странице, просто повторите HTML-код для слайдера и настройте каждый из них с помощью JavaScript.
