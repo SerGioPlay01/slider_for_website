@@ -1,7 +1,7 @@
 # Адаптивный слайдер для веб-сайта
 Данный репозиторий содержит код для добавления слайдера изображений с использованием HTML, CSS и JavaScript на веб - сайт.
 
-!Котик(https://i.ibb.co/64Yv3bV/Example-work-slider-Ser-Gio-Play.png)
+![screen](https://i.ibb.co/64Yv3bV/Example-work-slider-Ser-Gio-Play.png)
 
 # Использование
 Склонируйте репозиторий на свой локальный компьютер:
