@@ -61,4 +61,4 @@ git clone https://github.com/SerGioPlay01/slider_for_website.git
 
 # Автор
 
-Создано   SerGio Play
+Создано   [SerGio Play](https://sergioplay01.github.io/portfolio_sergio_play/)
