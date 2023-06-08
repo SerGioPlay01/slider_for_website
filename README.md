@@ -1,6 +1,8 @@
 # Адаптивный слайдер для веб-сайта
 Данный репозиторий содержит код для добавления слайдера изображений с использованием HTML, CSS и JavaScript на веб - сайт.
 
+Посмотреть:  [Демо]( https://sergioplay01.github.io/portfolio_sergio_play/](https://sergioplay01.github.io/slider_for_website/ )
+
 ![screen](https://i.ibb.co/64Yv3bV/Example-work-slider-Ser-Gio-Play.png)
 
 # Использование
